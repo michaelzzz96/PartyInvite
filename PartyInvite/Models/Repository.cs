@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace PartyInvites.Models
+namespace PartyInvite.Models
 {
     public static class Repository
     {

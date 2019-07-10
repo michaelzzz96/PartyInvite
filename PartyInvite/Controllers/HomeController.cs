@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc;
-using PartyInvites.Models;
+using PartyInvite.Models;
 using System.Linq;
 
-namespace PartyInvites.Controllers
+namespace PartyInvite.Controllers
 {
 
     public class HomeController : Controller
